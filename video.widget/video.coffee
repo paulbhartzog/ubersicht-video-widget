@@ -7,7 +7,7 @@ Github: http://github.com/paulbhartzog
 Requirements:
 Übersicht: http://github.com/felixhageloh/uebersicht/
 
-README
+INSTRUCTIONS
 - This widget uses the HTML5 "video" tag to place a video into Übersicht
 - This widget has been tested with .mp4 files.
 
@@ -19,6 +19,7 @@ EXAMPLE:
 
 - For html5 video tutorials see: http://www.w3schools.com/html/html5_video.asp
 
+- thanks to Übersicht (http://github.com/felixhageloh/uebersicht/)
 - thanks to http://www.sample-videos.com/ for the sample video
 
 ###
