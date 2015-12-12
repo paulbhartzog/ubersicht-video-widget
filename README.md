@@ -28,7 +28,7 @@ While you can use this widget to embed small videos, you can also make the video
 ```
 
 
-## Acknowledgemnts
+## Acknowledgments
 
 - thanks to [Übersicht](http://github.com/felixhageloh/uebersicht/)
 - thanks to [http://www.sample-videos.com/](http://www.sample-videos.com/) for the sample video
